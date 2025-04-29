@@ -31,7 +31,9 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# INPUT
-# OUTPUT
+# INPUT![Uploading Screenshot 2025-04-29 110202.png…]()
+
+# OUTPUT![Screenshot 2025-04-29 105051](https://github.com/user-attachments/assets/2a0c7a07-f23a-45e9-ae91-3147f7994bcd)
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
